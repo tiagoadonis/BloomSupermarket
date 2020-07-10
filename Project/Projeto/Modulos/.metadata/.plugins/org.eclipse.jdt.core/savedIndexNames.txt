@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\tiago\Desktop\Universidade\MIECT\2º Ano\1º Semestre\Cadeiras\Métodos Probabilísticos para Engenharia Informática\Projeto\Projeto\Projeto\Modulos\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
